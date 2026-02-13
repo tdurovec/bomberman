@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org"
+         xmlns:xsi="http://www.w3.org"
+         xsi:schemaLocation="http://maven.apache.org http://maven.apache.org">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>bombermann</groupId>
+    <artifactId>Bomberman</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>22</maven.compiler.source>
+        <maven.compiler.target>22</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+    </dependencies>
+</project>
