@@ -55,3 +55,7 @@ Hráč tieto predmety zoberie automaticky, nemá na výber, takže treba myslie�
 - **Next Level** – pokračovať na ďalšiu úroveň  
 - **Repeat Level**  
 - **Main Menu**
+
+
+## Spustenie
+``` mvn clean compile exec:java -Dexec.mainClass="main.Main"```
